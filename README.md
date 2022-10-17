@@ -11,3 +11,7 @@
 ## 👷‍♂️ Projects I'm working on
 
 > Work in progress, I'll be back with very more infos really soon...
+
+## 💻 Projects I've worked on
+
+[Abusrdity](https://absurdity.vercel.app/)
