@@ -2,9 +2,9 @@
 
 👋 Hi there, I'm Joris, a young developper, **thirsty of knowledge** !
 
-🤓 About to finish a ***web developper full stack JavaScript program***, specialized in REACT and already looking for an intership.
+🤓 Just finished a ***web developper full stack JavaScript program***, specialized in REACT and already looking for an intership.
 
-🔨 Currently learning : ***React-Redux***.
+🔨 Currently learning : ***TypeScript***.
 
 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/joris-neblai/)
 
