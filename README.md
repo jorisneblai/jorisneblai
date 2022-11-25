@@ -14,4 +14,4 @@
 
 ## 💻 Projects I've worked on
 
-[Abusrdity](https://absurdity.vercel.app/)
+[Absurdity](https://absurdity.vercel.app/)
